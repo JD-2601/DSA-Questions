@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/JD-2601/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JD-2601/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JD-2601/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JD-2601/DSA-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/JD-2601/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JD-2601/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Enumeration
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/JD-2601/DSA-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JD-2601/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JD-2601/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JD-2601/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## String
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JD-2601/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->

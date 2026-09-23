@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/JD-2601/DSA-Questions/tree/master/0189-rotate-array) |
 | [1331-rank-transform-of-an-array](https://github.com/JD-2601/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JD-2601/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JD-2601/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JD-2601/DSA-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JD-2601/DSA-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/JD-2601/DSA-Questions/tree/master/3524-find-x-value-of-array-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/JD-2601/DSA-Questions/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JD-2601/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JD-2601/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JD-2601/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JD-2601/DSA-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JD-2601/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JD-2601/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JD-2601/DSA-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -81,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JD-2601/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JD-2601/DSA-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JD-2601/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JD-2601/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
 | ------- |

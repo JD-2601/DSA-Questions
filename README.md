@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/JD-2601/DSA-Questions/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/JD-2601/DSA-Questions/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/JD-2601/DSA-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JD-2601/DSA-Questions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JD-2601/DSA-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/JD-2601/DSA-Questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JD-2601/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0509-fibonacci-number](https://github.com/JD-2601/DSA-Questions/tree/master/0509-fibonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JD-2601/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/JD-2601/DSA-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/JD-2601/DSA-Questions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -140,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/JD-2601/DSA-Questions/tree/master/0835-image-overlap) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/JD-2601/DSA-Questions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/JD-2601/DSA-Questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

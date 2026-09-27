@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/JD-2601/DSA-Questions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/JD-2601/DSA-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/JD-2601/DSA-Questions/tree/master/0509-fibonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/JD-2601/DSA-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JD-2601/DSA-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -145,9 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/JD-2601/DSA-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/JD-2601/DSA-Questions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/JD-2601/DSA-Questions/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/JD-2601/DSA-Questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

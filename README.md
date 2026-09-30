@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/JD-2601/DSA-Questions/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/JD-2601/DSA-Questions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JD-2601/DSA-Questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/JD-2601/DSA-Questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/JD-2601/DSA-Questions/tree/master/0189-rotate-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/JD-2601/DSA-Questions/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/JD-2601/DSA-Questions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/JD-2601/DSA-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/JD-2601/DSA-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/JD-2601/DSA-Questions/tree/master/0509-fibonacci-number) |

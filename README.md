@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/JD-2601/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/JD-2601/DSA-Questions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/JD-2601/DSA-Questions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/JD-2601/DSA-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/JD-2601/DSA-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/JD-2601/DSA-Questions/tree/master/0509-fibonacci-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/JD-2601/DSA-Questions/tree/master/0067-add-binary) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/JD-2601/DSA-Questions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/JD-2601/DSA-Questions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/JD-2601/DSA-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/JD-2601/DSA-Questions/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/JD-2601/DSA-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
@@ -164,5 +167,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/JD-2601/DSA-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/JD-2601/DSA-Questions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->

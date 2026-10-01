@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/JD-2601/DSA-Questions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/JD-2601/DSA-Questions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/JD-2601/DSA-Questions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/JD-2601/DSA-Questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/JD-2601/DSA-Questions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/JD-2601/DSA-Questions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/JD-2601/DSA-Questions/tree/master/0509-fibonacci-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/JD-2601/DSA-Questions/tree/master/0069-sqrtx) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/JD-2601/DSA-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/JD-2601/DSA-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JD-2601/DSA-Questions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -172,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/JD-2601/DSA-Questions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/JD-2601/DSA-Questions/tree/master/0231-power-of-two) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/JD-2601/DSA-Questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
